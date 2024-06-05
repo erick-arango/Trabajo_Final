@@ -12,4 +12,6 @@ Ingeniería Industrial
 Jhon Alexander Valenzuela Benavides  
 Ingeniería Industrial  
 
-  ![]()
+  Nombre del proyecto:  
+  SIGIM (Sistema de Gestion Integral de Matricula)
+  ![](https://github.com/erick-arango/Trabajo_Final/blob/main/SIGIM.jpg)
